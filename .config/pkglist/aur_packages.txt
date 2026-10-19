@@ -1,0 +1,12 @@
+mecab-git
+mecab-git-debug
+mecab-ipadic
+memento
+memento-debug
+nexus-nm
+nexus-nm-debug
+python-imageio-ffmpeg
+python-screeninfo
+waypaper
+yay
+yay-debug
