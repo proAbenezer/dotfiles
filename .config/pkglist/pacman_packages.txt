@@ -13,6 +13,7 @@ bluez-utils
 brightnessctl
 btop
 bun
+cdrtools
 chafa
 chromium
 dmenu
@@ -46,6 +47,7 @@ imv
 intel-media-driver
 intel-ucode
 iw
+kdenlive
 kitty
 lazygit
 libva-intel-driver
@@ -56,6 +58,7 @@ linux
 linux-firmware
 lxappearance
 mako
+mediainfo
 memento
 mkinitcpio
 mpv
